@@ -1,0 +1,32 @@
+{
+  "name": "pouchdb-adapter-dropboxdown",
+  "version": "0.0.1",
+  "description": "An adapter to use dropboxDOWN with PouchDB in the browser",
+  "author": "Practical Porpoise",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "leveldb",
+    "leveldown",
+    "levelup",
+    "dropbox",
+    "pouchdb",
+    "dropboxdown"
+  ],
+  "dependencies": {
+    "pouchdb-adapter-leveldb-core": "^7.0.0"
+  },
+  "peerDependencies": {
+    "dropboxdown": ">=0.0.1"
+  },
+  "engines": {
+    "node": ">=8.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/practicalporpoise/pouchdb-adapter-dropboxdown.git"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.7"
+  }
+}
