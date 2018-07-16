@@ -17,7 +17,7 @@
     "pouchdb-adapter-leveldb-core": "^7.0.0"
   },
   "peerDependencies": {
-    "dropboxdown": ">=0.0.1"
+    "dropboxdown": ">=0.0.2"
   },
   "engines": {
     "node": ">=8.6"

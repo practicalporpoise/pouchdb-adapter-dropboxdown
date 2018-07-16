@@ -1,4 +1,4 @@
-const CoreLevelPouch = require('pouchdb-adapter-leveldb-core')
+const CoreLevelPouch = require('pouchdb-adapter-leveldb-core').default
 const DropboxDown = require('dropboxdown')
 
 function DropboxDownPouch(opts, callback) {
