@@ -1,6 +1,6 @@
 {
   "name": "pouchdb-adapter-dropboxdown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An adapter to use dropboxDOWN with PouchDB in the browser",
   "author": "Practical Porpoise",
   "license": "MIT",
